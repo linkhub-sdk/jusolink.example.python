@@ -1,5 +1,5 @@
 ####
-jusolink.py
+jusolink.example.python
 ####
 
 주소링크 API for Python.
